@@ -20,3 +20,40 @@ The aim is to identify high-risk member category, discover key churn indicators,
 
 <img width="919" height="547" alt="{EA5A2FA6-613D-47EF-AADA-54A313F3E1A3}" src="https://github.com/user-attachments/assets/90cc99f9-ed7a-4f89-a1fd-fdd243d27e54" />
 
+## 🛠️ Tools & Features Used
+
+- **Microsoft Excel**
+  - Pivot Tables
+  - Slicers
+  - Interactive Dashboards
+  - Charts: Bar, Line, Pie, Doughnut
+  - Excel Formulas (IF, COUNTIF, etc.)
+ 
+## 📈 Key Performance Indicators (KPIs)
+
+- ✅ Total Customers
+- 🔁 Churn Rate
+- 🔒 Active Customers
+- ♻️ Retention Rate
+- 👤 Churn by Age Group & Gender
+- 💼 Churn by Tenure
+- 💰 Impact of Balance Category on Churn
+- 🌍 Country-wise Churn Rate
+
+## 🔍 Analytical Questions Answered
+
+- What is the overall **customer churn rate**?
+- Which **age groups** and **genders** have the highest churn?
+- Does **account balance** impact churn likelihood?
+- How does **tenure** affect customer retention?
+- Which **countries** have the highest churn rates?
+- What is the **distribution of customers by credit score**?
+- How are customers segmented by **balance and tenure**?
+
+## 📊 Visualizations
+
+- 📊 Bar Charts
+- 🥧 Pie Charts
+- 📈 Line Charts
+- 🍩 Doughnut Charts
+- 📌 Slicers for dynamic filtering
